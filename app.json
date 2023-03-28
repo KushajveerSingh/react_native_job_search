@@ -5,6 +5,11 @@
       "bundler": "metro"
     },
     "name": "react_native_job_search",
-    "slug": "react_native_job_search"
+    "slug": "react_native_job_search",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.reactNative.jobSearch",
+      "versionCode": 1
+    }
   }
 }
